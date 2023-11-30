@@ -1,0 +1,187 @@
+[
+  {
+      "id": 0,
+      "track": "Bahrain International Circuit",
+      "latitude": 26.026166562,
+      "longitude": 50.506331308,
+      "Length": 5.412
+  },
+  
+  {
+      "id": 1,
+      "track": "Jeddah Corniche Circuit",
+      "latitude": 21.492500,
+      "longitude": 39.177570,
+      "Length": 6.174
+  },
+  
+  {
+      "id": 2,
+      "track": "Albert Park Circuit",
+      "latitude": -37.843681,
+      "longitude": 144.951035,
+      "Length": 5.278
+  },
+  
+  {
+      "id": 3,
+      "track": "Baku City Circuit",
+      "latitude": 40.409264,
+      "longitude": 49.867092,
+      "Length": 6.003
+  },
+  
+  {
+      "id": 4,
+      "track": "Miami International Autodrome",
+      "latitude": 25.957960,
+      "longitude": -80.239311,
+      "Length": 5.412
+  },
+  
+  {
+      "id": 5,
+      "track": "Autodromo Enzo E Dino Ferrari",
+      "latitude": 44.337998648,
+      "longitude": 11.707997168,
+      "Length": 4.909
+  },
+  
+  {
+      "id": 6,
+      "track": "Circuit De Monaco",
+      "latitude": 44.337998648,
+      "longitude": 11.707997168,
+      "Length": 3.337
+  },
+  
+  {
+      "id": 7,
+      "track": "Circuit De Barcelona-Catalunya",
+      "latitude": 41.568664392,
+      "longitude": 2.25666564,
+      "Length": 4.675
+  },
+  
+  {
+      "id": 8,
+      "track": "Circuit Gilles-Villeneuve",
+      "latitude": 45.503497986,
+      "longitude": -73.522664576,
+      "Length": 4.361
+  },
+  
+  {
+      "id": 9,
+      "track": "Rebull Ring",
+      "latitude": 47.218499126,
+      "longitude": 14.758830298,
+      "Length": 4.318
+  },
+  
+  {
+      "id": 10,
+      "track": "Silverstone Circuit",
+      "latitude": 52.073273,
+      "longitude": -1.014818,
+      "Length": 5.891
+  },
+  
+  {
+      "id": 11,
+      "track": "Hungaroring",
+      "latitude": 47.581707,
+      "longitude": 19.250553,
+      "Length": 4.381
+  },
+  
+  {
+      "id": 12,
+      "track": "Circuit de Spa-Francorchamps",
+      "latitude": 50.435664924,
+      "longitude": 5.969496122,
+      "Length": 7.004
+  },
+  
+  {
+      "id": 14,
+      "track": "Circuit Park Zandvoort",
+      "latitude": 52.3866234535,
+      "longitude": 4.53788451512,
+      "Length": 4.259
+  },
+  
+  {
+      "id": 15,
+      "track": "Autodromo Nazionale Monza",
+      "latitude": 45.618997524,
+      "longitude": 9.286998852,
+      "Length": 5.793
+      
+  },
+  
+  {
+      "id": 16,
+      "track": "Marina Bay Street Circuit",
+      "latitude": 1.2881738473,
+      "longitude": 103.858484899,
+      "Length": 5.063
+  },
+  
+  {
+      "id": 17,
+      "track": "Suzuka International Racing Course",
+      "latitude": 34.83916331,
+      "longitude": 136.537664516,
+      "Length": 5.807
+  },
+  
+  {
+      "id": 18,
+      "track": "Losail International Circuit",
+      "latitude": 25.487331384,
+      "longitude": 51.45249819,
+      "Length": 5.380
+  },
+  
+  {
+      "id": 19,
+      "track": "Circuit of the Americas",
+      "latitude": 30.13661,
+      "longitude": -97.630692,
+      "Length": 5.513
+  },
+  
+  {
+      "id": 20,
+      "track": "Autodromo Hermanos Rodriguez",
+      "latitude": 19.4025167233,
+      "longitude": -99.0865813203,
+      "Length": 4.304
+  },
+  
+  {
+      "id": 21,
+      "track": "Autódromo José Carlos Pace",
+      "latitude": -23.702163858,
+      "longitude": -46.693163894,
+      "Length": 4.309
+  },
+  
+  {
+      "id": 22,
+      "track": "Las Vegas Strip Circuit",
+      "latitude": 36.188110,
+      "longitude": -115.176468,
+      "Length": 6.120
+  },
+  
+  {
+      "id": 23,
+      "track": "Yas Marina Circuit",
+      "latitude": 24.466998132,
+      "longitude": 54.601830926,    
+      "Length": 5.281
+  },
+  
+]
